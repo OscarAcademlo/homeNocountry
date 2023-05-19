@@ -6,4 +6,27 @@ body{
 }
 .container{
     margin-top: 20px;
+    width: 100%;
 }
+
+.social-icons {
+    float: left;
+    padding: 25px 50px;
+  }
+  
+.map {
+    float: right;
+    padding-right: 50px;
+  }
+  
+.social-map {
+    background-color: #e9ece9;
+    padding: 20px;
+    width: 100%;
+  }
+
+  .sobre-nosotros{
+    text-align:justify;
+   
+    
+  }
