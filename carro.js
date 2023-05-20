@@ -21,3 +21,4 @@ fragment.appendChild(clone)
     });
     cards.appendChild(fragment)
 }
+
