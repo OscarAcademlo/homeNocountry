@@ -40,5 +40,19 @@
       "thumbnailUrl": "./img/papas.jpg",
       "cantidad": "+",
       "precio": "$ 150"
+    },
+    {
+      "id": 5,
+      "title": "Mango",
+      "thumbnailUrl": "./img/mango.jpg",
+      "cantidad": "+",
+      "precio": "$ 100"
+    },
+    {
+      "id": 6,
+      "title": "Papas",
+      "thumbnailUrl": "./img/papas.jpg",
+      "cantidad": "+",
+      "precio": "$ 150"
     }
   ]

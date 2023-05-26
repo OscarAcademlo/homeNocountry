@@ -3,9 +3,10 @@ body{
     padding: 0;
     box-sizing: border-box;
     min-height: 100vh;
+    
 }
 
-.nav{
+.navbar{
   background-color: #e9ece9;
 }
 .container{
@@ -84,4 +85,19 @@ body{
 
   }
   
+  .contacto{
+    display: flex;
+    padding: 50px;
+    margin: 28px;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
 
+.form {
+    margin: 10px 15px;
+    box-sizing: border-box;
+    
+   
+}
